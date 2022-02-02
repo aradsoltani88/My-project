@@ -21,7 +21,7 @@ In this project we are going to learn how to count the amount of objects with an
 
 1. Open the Arduino IDE
 2. Connect your Arduino to your computer (If you don't know how to do it click [here](https://hackster.imgix.net/uploads/attachments/648384/68747470733a2f2f696d616765732e696e646965676f676f2e636f6d2f66696c655f6174746163686d656e74732f3936383239392f66696c65732f32303134313032393036333834312d706c75672e706e673f_JKSjPPbqoY.png?auto=compress%2Cformat&w=400&h=300&fit=min))
-3. Uplode the code for your project (if you don't have a code for it the code is [here]())
+3. Uplode the code for your project (if you don't have a code for it the code is [here](https://github.com/aradsoltani88/My-project/blob/main/code/FIZRBWRIK7BYLSV.ino))
 
 ## About me
 
